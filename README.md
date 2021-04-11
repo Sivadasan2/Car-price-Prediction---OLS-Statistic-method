@@ -1,4 +1,4 @@
- Car-price-Prediction---OLS-Statistic-method
+ Car-price-Prediction---OLS-Statistic/ML train and test-method
  
  The Dataset has be historical data of the Car features with its selling price, our target is to analyse the
  selling the price of the data and eplain the variations provided the other featured in the selling price.
